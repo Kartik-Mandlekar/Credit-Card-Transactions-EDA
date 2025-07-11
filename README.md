@@ -48,7 +48,6 @@ credit-card-eda/
 
 ![Dashboard]<img width="2924" height="1739" alt="Dashboard 2 (1)" src="https://github.com/user-attachments/assets/5a518cb8-1aa9-4a99-aaaf-ce9b9f5212df" />
 
-> 👉 [View Full Dashboard on Tableau Public]([url](https://public.tableau.com/app/profile/kartik.mandlekar/viz/CreditCardSpendDashboard/Dashboard2))
 
 ---
 
@@ -59,17 +58,6 @@ credit-card-eda/
 - Business-Oriented Insight Generation
 - Dashboard Design (Tableau)
 - Business Intelligence
-
----
-
-## 🚀 Getting Started
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/credit-card-eda.git
-```
-2. Open the SQL files from `sql/`
-3. View Tableau dashboard in `images/` or via Tableau Public
 
 ---
 
